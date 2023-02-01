@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "455371728598",
+    "project_id": "fanlar-akademiyasi",
+    "storage_bucket": "fanlar-akademiyasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455371728598:android:13849cea8506b4572c0b77",
+        "android_client_info": {
+          "package_name": "com.example.fanlarakademiyasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijvGK4yCYA2q_H5ZN6moVs0Pf0SO6r78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455371728598:android:218a470f7409b8822c0b77",
+        "android_client_info": {
+          "package_name": "uz.smartmuslim.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijvGK4yCYA2q_H5ZN6moVs0Pf0SO6r78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455371728598:android:654ac5bb180efabf2c0b77",
+        "android_client_info": {
+          "package_name": "uz.smartmuslim.fanlarakademiyasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijvGK4yCYA2q_H5ZN6moVs0Pf0SO6r78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455371728598:android:62144663a400546d2c0b77",
+        "android_client_info": {
+          "package_name": "uz.smartmuslim.forakhror"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455371728598-3krj80nui0a9jpc3uapqadb71keu9tn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.smartmuslim.forakhror",
+            "certificate_hash": "9655132557bf1f321166b8e2d75ab5b80b6945ac"
+          }
+        },
+        {
+          "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijvGK4yCYA2q_H5ZN6moVs0Pf0SO6r78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455371728598-r808ic8f3v22ku15qca74npisrpve3m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
